@@ -59,3 +59,8 @@ Power BI (Visualization & Dashboard)
 
 PostgreSQL / MySQL (Any supported RDBMS)
 
+### Includes:
+-- EcommerceEDA - SQL File
+-- EcommerceReport - pbix File
+-- Dataset Files - CSV Files
+
